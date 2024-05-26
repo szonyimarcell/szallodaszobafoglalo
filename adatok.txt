@@ -1,3 +1,4 @@
 Név: Szőnyi Marcell
 Szak: Mérnökinformatika
 Neptun kód: PIT701
+teszt
